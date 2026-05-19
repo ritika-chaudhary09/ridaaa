@@ -1,0 +1,11 @@
+   <html>
+   <head>
+	<title>Rida cloth house</title>
+   </head>
+   <body>
+	<h1>namaste,satshriakal and welcome to Rida cloth house</h1>
+	<h2>hey beautiful!<br>looking for suits</h2> 
+	<hr>
+	<p>shop women's clothing from top ethnical shop <b>without any effort</b>from home.choose from<b> best range</b>.you can just type about the type of style you are looking for and get best options<br><i>Bhartiya khubsurti </i>
+   </body>
+   <html>
